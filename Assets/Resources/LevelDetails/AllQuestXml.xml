@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Thu May 01 12:23:46 GMT+05:30 2014 -->
+<Quests>
+
+
+	<Quest>
+    <count>5</count>
+    <details>Complete First Puzzle</details>
+  	</Quest>
+  	
+  	<Quest>
+    <count>5</count>
+    <details>Login To Facebook</details>
+  	</Quest>
+  	
+  	<Quest>
+    <count>5</count>
+    <details>Share With Friends</details>
+  	</Quest>
+  	
+  	<Quest>
+    <count>5</count>
+    <details>Invite Friends On Facebook</details>
+  	</Quest>
+  	
+  	<Quest>
+    <count>5</count>
+    <details>Unlocked All Themes</details>
+  	</Quest>
+  	
+  	<Quest>
+    <count>5</count>
+    <details>Daily Champ, Play 10 Daily Challenges</details>
+  	</Quest>
+  	
+	<Quest>
+    <count>5</count>
+    <details>Complete 10 Puzzles Under 1:15 each</details>
+  	</Quest>
+  
+  	<Quest>
+    <count>5</count>
+    <details>Complete 10 Puzzles Under 1:30 each</details>
+  	</Quest>
+  
+  	<Quest>
+    <count>5</count>
+    <details>Complete 10 Puzzles Under 1:45 each</details>
+ 	</Quest>
+  
+  	<Quest>
+    <count>5</count>
+    <details>Complete 5 Consecutive Puzzles Under 2:45</details>
+  	</Quest>
+  
+  	<Quest>
+    <count>5</count>
+    <details>Complete 5 Consecutive Puzzles Under 3:00</details>
+ 	</Quest>
+  
+	<Quest>
+    <count>5</count>
+    <details>Earn a diamond on 10 Different Puzzles</details>
+    </Quest>
+  
+  	<Quest>
+    <count>5</count>
+    <details>Earn a diamond on 15 Different Puzzles</details>
+  	</Quest>
+  
+  	<Quest>
+    <count>5</count>
+    <details>Earn a diamond on 20 Different Puzzles</details>
+  	</Quest>
+  
+  	<Quest>
+    <count>5</count>
+    <details>Earn a diamond on 25 Different Puzzles</details>
+  	</Quest>
+  	
+  	<Quest>
+    <count>25</count>
+    <details>Earn a diamond on 50 Different Puzzles</details>
+  	</Quest>
+  
+  	<Quest>
+    <count>50</count>
+    <details>Earn a diamond on 100 Different Puzzles</details>
+  	</Quest>
+
+</Quests>

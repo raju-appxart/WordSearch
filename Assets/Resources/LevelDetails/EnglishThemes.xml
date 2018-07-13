@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Thu May 01 12:23:418 GMT+05:30 2014 -->
+<Levels>
+
+  <Level>
+    <category>MOVIES</category>
+    <icon>Movies</icon>
+    <count>128</count>
+  </Level>
+  
+  <Level>
+    <category>TV SHOWS</category>
+    <icon>Tvshow</icon>
+    <count>109</count>
+  </Level>
+
+  <Level>
+    <category>FOOD</category>
+    <icon>Food</icon>
+    <count>17</count>
+  </Level>
+  
+  <Level>
+    <category>HOLIDAYS</category>
+    <icon>Holidays</icon>
+    <count>14</count>
+  </Level>
+  
+  <Level>
+    <category>HOME</category>
+    <icon>Home</icon>
+    <count>18</count>
+  </Level>
+  
+  <Level>
+    <category>GENERAL</category>
+    <icon>General</icon>
+    <count>46</count>
+  </Level>
+  
+  <Level>
+    <category>SCIENCE</category>
+    <icon>Science</icon>
+    <count>14</count>
+  </Level>
+  
+  
+  <Level>
+    <category>ANIMALS</category>
+    <icon>Animals</icon>
+    <count>31</count>
+  </Level>
+  
+  <Level>
+    <category>CELEBRITIES</category>
+    <icon>Stars</icon>
+    <count>13</count>
+  </Level>
+  
+  
+  <Level>
+    <category>ENGLISH</category>
+    <icon>English</icon>
+    <count>24</count>
+  </Level>
+  
+  
+  <Level>
+    <category>SPORTS</category>
+    <icon>Sports</icon>
+    <count>19</count>
+  </Level>
+  
+  <Level>
+    <category>HUMAN BODY</category>
+    <icon>HumanBody</icon>
+    <count>10</count>
+  </Level>
+  
+  <Level>
+    <category>COUNTRIES</category>
+    <icon>Countries</icon>
+    <count>13</count>
+  </Level>
+  
+  <Level>
+    <category>MUSIC</category>
+    <icon>Music</icon>
+    <count>24</count>
+  </Level>
+  
+  <Level>
+    <category>SITCOMS</category>
+    <icon>Sitcoms</icon>
+    <count>14</count>
+  </Level>
+  
+  <Level>
+    <category>CLOTHES</category>
+    <icon>Clothes</icon>
+    <count>9</count>
+  </Level>
+  
+  <Level>
+    <category>EMOTIONS</category>
+    <icon>Emotions</icon>
+    <count>14</count>
+  </Level>
+  
+  <Level>
+    <category>ADJECTIVES</category>
+    <icon>Adjectives</icon>
+    <count>30</count>
+  </Level>
+  
+  <Level>
+    <category>NOUNS N VERBS</category>
+    <icon>Nounsverbs</icon>
+    <count>16</count>
+  </Level>
+  
+  <Level>
+    <category>TECHNOLOGY</category>
+    <icon>Technology</icon>
+    <count>15</count>
+  </Level>
+  
+  <Level>
+    <category>TIME N SPACE</category>
+    <icon>TimeSpace</icon>
+    <count>7</count>
+  </Level>
+
+  <Level>
+    <category>ACTORS</category>
+    <icon>Actor</icon>
+    <count>68</count>
+  </Level>
+
+  <Level>
+    <category>ACTRESSES</category>
+    <icon>Actoresses</icon>
+    <count>50</count>
+  </Level>
+
+  <Level>
+    <category>AFRICA</category>
+    <icon>Africa</icon>
+    <count>7</count>
+  </Level>
+
+  <Level>
+    <category>CAREERS</category>
+    <icon>Careers</icon>
+    <count>6</count>
+  </Level>
+
+  <Level>
+    <category>CARS</category>
+    <icon>Cars</icon>
+    <count>12</count>
+  </Level>
+
+  <Level>
+    <category>GEOGRAPHY</category>
+    <icon>Geography</icon>
+    <count>6</count>
+  </Level>
+
+  <Level>
+    <category>GRAMMAR</category>
+    <icon>Grammar</icon>
+    <count>25</count>
+  </Level>
+
+  <Level>
+    <category>HEALTH</category>
+    <icon>Health</icon>
+    <count>14</count>
+  </Level>
+
+  <Level>
+    <category>HISTORY</category>
+    <icon>History</icon>
+    <count>29</count>
+  </Level>
+
+  <Level>
+    <category>RELIGION</category>
+    <icon>Religion</icon>
+    <count>22</count>
+  </Level>
+
+  <Level>
+    <category>VOCABULARY</category>
+    <icon>Vocabulary</icon>
+    <count>37</count>
+  </Level>
+
+  <Level>
+    <category>WORKPLACE</category>
+    <icon>WorkPlace</icon>
+    <count>8</count>
+  </Level>
+
+
+</Levels>
